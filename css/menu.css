@@ -150,3 +150,13 @@ footer {
         font-size: 2rem;
     }
 }
+
+
+ menu{
+    display: flex;
+    flex-direction: row;
+    font-size: 5%;
+    border: 2px solid red;
+ }
+
+ 
